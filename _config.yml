@@ -12,7 +12,7 @@ lang: en-US
 title: "GreatPsycho"
 
 # A description of your site for meta tag, search engine results.
-description: "안녕하세요."
+description: '"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill'
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -43,7 +43,7 @@ navigation:
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#625852'
 
 # Site footer
 footer:
